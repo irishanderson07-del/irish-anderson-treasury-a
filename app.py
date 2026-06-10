@@ -44,4 +44,4 @@ with col2:
                 st.write(f"✅ **Government Warning Statement:** Validated (ALL CAPS & BOLD detected).")
     else:
         st.info("Upload a label image on the left to begin the automated compliance check.") 
-streamlit run app.py
+
