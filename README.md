@@ -29,3 +29,5 @@ To run this prototype locally for advanced testing or auditing:
    ```bash
    git clone [https://github.com/irishanderson07-del/irish-anderson-treasury-ai.git](https://github.com/irishanderson07-del/irish-anderson-treasury-ai.git)
    cd irish-anderson-treasury-ai
+pip install -r requirements.txt
+streamlit run app.py
